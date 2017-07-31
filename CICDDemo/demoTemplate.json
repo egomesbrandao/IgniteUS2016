@@ -6,7 +6,7 @@
 	"resources": [],
 	"outputs": {
 		"result": {
-			"value": "Hello, Azure RM!",
+			"value": "Hello, Azure Resource Manager!",
 			"type" : "string"
 		}
 	}
